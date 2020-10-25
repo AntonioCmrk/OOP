@@ -1,0 +1,8 @@
+C:\Users\fpsdr\Desktop\Classes\bin\Debug\netstandard2.0\Classes.deps.json
+C:\Users\fpsdr\Desktop\Classes\bin\Debug\netstandard2.0\Classes.dll
+C:\Users\fpsdr\Desktop\Classes\bin\Debug\netstandard2.0\Classes.pdb
+C:\Users\fpsdr\Desktop\Classes\obj\Debug\netstandard2.0\Classes.csprojAssemblyReference.cache
+C:\Users\fpsdr\Desktop\Classes\obj\Debug\netstandard2.0\Classes.AssemblyInfoInputs.cache
+C:\Users\fpsdr\Desktop\Classes\obj\Debug\netstandard2.0\Classes.AssemblyInfo.cs
+C:\Users\fpsdr\Desktop\Classes\obj\Debug\netstandard2.0\Classes.dll
+C:\Users\fpsdr\Desktop\Classes\obj\Debug\netstandard2.0\Classes.pdb
