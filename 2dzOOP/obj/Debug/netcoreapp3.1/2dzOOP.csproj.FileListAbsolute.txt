@@ -1,0 +1,11 @@
+C:\Users\cmrka\source\repos\2dzOOP\obj\Debug\netcoreapp3.1\2dzOOP.csprojAssemblyReference.cache
+C:\Users\cmrka\source\repos\2dzOOP\obj\Debug\netcoreapp3.1\2dzOOP.AssemblyInfoInputs.cache
+C:\Users\cmrka\source\repos\2dzOOP\obj\Debug\netcoreapp3.1\2dzOOP.AssemblyInfo.cs
+C:\Users\cmrka\source\repos\2dzOOP\bin\Debug\netcoreapp3.1\2dzOOP.exe
+C:\Users\cmrka\source\repos\2dzOOP\bin\Debug\netcoreapp3.1\2dzOOP.deps.json
+C:\Users\cmrka\source\repos\2dzOOP\bin\Debug\netcoreapp3.1\2dzOOP.runtimeconfig.json
+C:\Users\cmrka\source\repos\2dzOOP\bin\Debug\netcoreapp3.1\2dzOOP.runtimeconfig.dev.json
+C:\Users\cmrka\source\repos\2dzOOP\bin\Debug\netcoreapp3.1\2dzOOP.dll
+C:\Users\cmrka\source\repos\2dzOOP\bin\Debug\netcoreapp3.1\2dzOOP.pdb
+C:\Users\cmrka\source\repos\2dzOOP\obj\Debug\netcoreapp3.1\2dzOOP.dll
+C:\Users\cmrka\source\repos\2dzOOP\obj\Debug\netcoreapp3.1\2dzOOP.pdb
