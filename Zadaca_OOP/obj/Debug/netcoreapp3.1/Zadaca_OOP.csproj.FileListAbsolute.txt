@@ -1,0 +1,11 @@
+C:\Users\cmrka\source\repos\Zadaca_OOP\obj\Debug\netcoreapp3.1\Zadaca_OOP.csprojAssemblyReference.cache
+C:\Users\cmrka\source\repos\Zadaca_OOP\obj\Debug\netcoreapp3.1\Zadaca_OOP.AssemblyInfoInputs.cache
+C:\Users\cmrka\source\repos\Zadaca_OOP\obj\Debug\netcoreapp3.1\Zadaca_OOP.AssemblyInfo.cs
+C:\Users\cmrka\source\repos\Zadaca_OOP\bin\Debug\netcoreapp3.1\Zadaca_OOP.exe
+C:\Users\cmrka\source\repos\Zadaca_OOP\bin\Debug\netcoreapp3.1\Zadaca_OOP.deps.json
+C:\Users\cmrka\source\repos\Zadaca_OOP\bin\Debug\netcoreapp3.1\Zadaca_OOP.runtimeconfig.json
+C:\Users\cmrka\source\repos\Zadaca_OOP\bin\Debug\netcoreapp3.1\Zadaca_OOP.runtimeconfig.dev.json
+C:\Users\cmrka\source\repos\Zadaca_OOP\bin\Debug\netcoreapp3.1\Zadaca_OOP.dll
+C:\Users\cmrka\source\repos\Zadaca_OOP\bin\Debug\netcoreapp3.1\Zadaca_OOP.pdb
+C:\Users\cmrka\source\repos\Zadaca_OOP\obj\Debug\netcoreapp3.1\Zadaca_OOP.dll
+C:\Users\cmrka\source\repos\Zadaca_OOP\obj\Debug\netcoreapp3.1\Zadaca_OOP.pdb
